@@ -1,0 +1,12 @@
+C:\Users\tiago\source\repos\MyApp1\MyApp1\obj\Debug\MyApp1.csproj.AssemblyReference.cache
+C:\Users\tiago\source\repos\MyApp1\MyApp1\obj\Debug\MyApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tiago\source\repos\MyApp1\MyApp1\obj\Debug\MyApp1.Form1.resources
+C:\Users\tiago\source\repos\MyApp1\MyApp1\obj\Debug\MyApp1.Properties.Resources.resources
+C:\Users\tiago\source\repos\MyApp1\MyApp1\obj\Debug\MyApp1.csproj.GenerateResource.cache
+C:\Users\tiago\source\repos\MyApp1\MyApp1\obj\Debug\MyApp1.csproj.CoreCompileInputs.cache
+C:\Users\tiago\source\repos\MyApp1\MyApp1\bin\Debug\Organizador.exe.config
+C:\Users\tiago\source\repos\MyApp1\MyApp1\bin\Debug\Organizador.exe
+C:\Users\tiago\source\repos\MyApp1\MyApp1\bin\Debug\Organizador.pdb
+C:\Users\tiago\source\repos\MyApp1\MyApp1\obj\Debug\Organizador.exe
+C:\Users\tiago\source\repos\MyApp1\MyApp1\obj\Debug\Organizador.pdb
+C:\Users\tiago\source\repos\MyApp1\MyApp1\obj\Debug\MyApp1.Form2.resources
